@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+        <title>Quarkus</title>
+        <link>https://quarkus.io</link>
+        <description>Quarkus: Supersonic Subatomic Java</description>
+        <lastBuildDate>Mon, 25 Jan 2021 01:31:42 +0000</lastBuildDate>
+        
+        <item>
+            <title>Quarkus 1.11 released - RESTEasy Reactive, Dev UI, and more!</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-11-0-final-released/
+            </link>
+            <description>
+                For each Quarkus release, it&#8217;s the same story: it comes with a ton of exciting new features and enhancements&#8230;&#8203; But believe it or not, it&#8217;s true. 1.11 is an important milestone as it marks the beginning of two amazing new features: RESTEasy Reactive, Our Dev UI. But it also comes...
+            </description>
+            <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-11-0-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Getting Started with Apache Kafka in your Quarkus application</title>
+            <link>
+                https://quarkus.io/blog/getting-started-kafka/
+            </link>
+            <description>
+                Apache Kafka is a prevalent distributed streaming platform offering a unique set of characteristics such as message retention, replay capabilities, consumer groups, and so on. Kafka is highly scalable, fault-tolerant, and is becoming the spine of many modern systems. That being said, Kafka is not the only one out there,...
+            </description>
+            <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/getting-started-kafka/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus Tools for IntelliJ 1.3.0 released!</title>
+            <link>
+                https://quarkus.io/blog/intellij-quarkus-tools-1.3.0/
+            </link>
+            <description>
+                We are very pleased to announce the 1.3.0 release of Quarkus Tools for IntelliJ. This release brings codestarts support in the Quarkus project wizard. Codestarts The Quarkus project wizard adds a new codestarts option, allowing to enable/disable codestarts generation for Quarkus extensions that support this feature. Moving Forward If you...
+            </description>
+            <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/intellij-quarkus-tools-1.3.0/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Bored with magic tricks?</title>
+            <link>
+                https://quarkus.io/blog/magic-control/
+            </link>
+            <description>
+                Just before my PTO, someone told me: 'I don&#8217;t like magic.' In this context, magic refers to the amount of hidden stuff done by Quarkus under the hood for the sake of simplicity. It includes dependency injection, annotations, and so on. It&#8217;s not the first time that I get that...
+            </description>
+            <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/magic-control/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.10.5.Final released - Bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-10-5-final-released/
+            </link>
+            <description>
+                1.10.5.Final is a maintenance release. It is a safe upgrade for everyone using Quarkus 1.10. If you are not using 1.10 already, please refer to the 1.10 migration guide. What&#8217;s new? This release is a maintenance release. It fixes some important issues in Quarkus, most notably in the Hibernate ORM...
+            </description>
+            <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-10-5-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkus 1.10.3.Final released - Bugfixes</title>
+            <link>
+                https://quarkus.io/blog/quarkus-1-10-3-final-released/
+            </link>
+            <description>
+                1.10.3.Final is a maintenance release fixing bugs and improving the documentation. Thanks to all the contributors who reported issues and provided reproducers: it really helped a lot! It is a safe upgrade for everyone using Quarkus 1.10. If you are not using 1.10 already, please refer to the 1.10 migration...
+            </description>
+            <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkus-1-10-3-final-released/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Using Avro in a native executable</title>
+            <link>
+                https://quarkus.io/blog/avro-native/
+            </link>
+            <description>
+                A few months back, I blogged about Quarkus, Kafka, and Avro (using the Apicurio schema registry). We developed a simple application, receives HTTP requests, writes Kafka records, and reads them from Kafka. It uses Avro to serialize and deserialize the records. At that time, the application was NOT working in...
+            </description>
+            <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/avro-native/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Announcing RESTEasy Reactive</title>
+            <link>
+                https://quarkus.io/blog/resteasy-reactive/
+            </link>
+            <description>
+                It gives the Quarkus and RESTEasy teams great pleasure to announce that RESTEasy Reactive integration in Quarkus has landed in the main Quarkus repo [1] and will be part of the next Quarkus release 1.11. We are looking forward to everyone testing it and providing us as much feedback as...
+            </description>
+            <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/resteasy-reactive/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Extension codestarts - A new way to learn &amp; discover Quarkus</title>
+            <link>
+                https://quarkus.io/blog/extension-codestarts-a-new-way-to-learn-and-discover-quarkus/
+            </link>
+            <description>
+                What’s nice about Extension codestarts is that it’s useful for fresh Quarkus developers as well as experienced ones. This is because of the wide range (and growing) of Quarkus extensions, you simply can’t know them all. When I am comparing frameworks, I think that Doc is a very important factor,...
+            </description>
+            <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/extension-codestarts-a-new-way-to-learn-and-discover-quarkus/
+            </guid>
+        </item>
+        
+        <item>
+            <title>Quarkiverse Hub - Home of Community Extensions</title>
+            <link>
+                https://quarkus.io/blog/quarkiverse/
+            </link>
+            <description>
+                Today we&#8217;re proud to announce Quarkiverse Hub, a GitHub organization where any contributor can host their Quarkus extensions. Hosting your extension in the Quarkiverse Hub makes it available to all Quarkus users through the Quarkus tooling. So read on to discover more and find out how you can make your...
+            </description>
+            <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+            <guid>
+                https://quarkus.io/blog/quarkiverse/
+            </guid>
+        </item>
+        
+    </channel>
+</rss>
